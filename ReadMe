@@ -1,0 +1,5 @@
+Movies and Subscriptions management system
+
+A web application that integrates the development of two REST API servers alongside a React.js client. The
+application shows movies with screening date and time, allows registration, selection of movies, deletion,
+updating and addition of movies and subscriptions, each user has different privileges.
